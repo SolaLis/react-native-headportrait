@@ -1,0 +1,29 @@
+
+{
+  "name": "react-native-headportrait",
+  "version": "1.0.6",
+  "description": "A ReactNative tablets Component for android and iOS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a1306966795/react-native-headportrait.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "mobile",
+    "ios",
+    "android",
+    "tablets"
+  ],
+  "author": "ljx",
+  "license": "1306966795@qq.com",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  }
+}
